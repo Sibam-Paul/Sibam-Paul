@@ -17,12 +17,12 @@
 </div>
 </details>
 
-<details>
- <summary><b>hacktoberfest(24) Badges </b></summary><br>
- <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<!-- <details>
+<!--  <summary><b>Hacktoberfest(24) Badges </b></summary><br>
+ <div style='display:flex; align-items:center; gap: 10px;' align='center'> -->
   
 [![An image of @sibampaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sibampaul)](https://holopin.io/@sibampaul)
- </div>
+<!-- </div>
  </details>
 <!---
 Sibam-Paul/Sibam-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
