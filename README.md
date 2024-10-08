@@ -16,6 +16,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
+
+[![An image of @sibampaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sibampaul)](https://holopin.io/@sibampaul)
 <!---
 Sibam-Paul/Sibam-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
