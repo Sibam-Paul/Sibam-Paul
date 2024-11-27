@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sibam-Paul
 - 👀 I’m interested in collaboration and building new things
-- 🌱 I’m currently learning ...
+- 🌱 I’m a open-source contributor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... discord @specter102
 - 😄 Pronouns: code/repeat
