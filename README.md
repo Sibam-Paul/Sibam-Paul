@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaboration and building new things
 - 🌱 I’m a open-source contributor
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord @specter102
+- 📫 How to reach me ... discord @specter102 or sibampaulsp2@gmail.com
 - 😄 Pronouns: code/repeat
 - ⚡ Fun fact: 
 <details>	
