@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... discord @specter102 or sibampaulsp2@gmail.com
 - 😄 Pronouns: code/repeat
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I stalk code 
 
 <summary><b>GSSOC(24) Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
