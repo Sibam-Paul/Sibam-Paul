@@ -2,7 +2,8 @@
 - 👀 I’m interested in collaboration and building new things
 - 🌱 I’m an open-source contributor
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord @specter102 or sibampaulsp2@gmail.com
+- 📫 How to reach me ... discord @specter102 / sibampaulsp2@gmail.com / [My LinkedIn](https://www.linkedin.com/in/sibam-paul-b717b4281/)
+      
 - 😄 Pronouns: code/repeat
 - ⚡ Fun fact: I stalk code 
 
