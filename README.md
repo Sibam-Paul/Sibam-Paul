@@ -25,7 +25,7 @@ const sibam = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibam-paul-b717b4281/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/specter102)
+[![Discord: @specter102](https://img.shields.io/badge/Discord-@specter102-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibampaulsp2@gmail.com)
 
 </div>
@@ -78,6 +78,6 @@ const sibam = {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sibam-Paul&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views Counter - Tracks total visits to this profile](https://komarev.com/ghpvc/?username=Sibam-Paul&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
