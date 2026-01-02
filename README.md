@@ -37,7 +37,9 @@ const sibam = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sibam-Paul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="Sibam's GitHub stats" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibam-Paul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Sibam's GitHub streak" />
+
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibam-Paul&custom_title=Sibam's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Sibam's activity graph" />
 
