@@ -29,30 +29,22 @@
 ## 📊 GitHub Analytics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibam-Paul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" height="160px" alt="Sibam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibam-Paul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160px" alt="Sibam's GitHub streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sibam-Paul&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Sibam-Paul&include_all_commits=true&theme=transparent"/>
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&display_format=percent&theme=transparent"/>
+<hr>
 </p>
 
+## 📊 GitHub Stats
 <p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sibam-Paul&langs_count=4&theme=transparent"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibam-Paul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160px" alt="Sibam's GitHub streak" />
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibam-Paul&custom_title=Sibam's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Sibam's activity graph" />
 </p>
 
 ## 🏆 Achievements & Badges
 
-<details open>
-<summary><b>🎯 GSSoC'24 Badges</b></summary>
-<br />
-<p>
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="GSSoC Badge 0" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="GSSoC Badge 1" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="GSSoC Badge 2" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="GSSoC Badge 3" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="GSSoC Badge 4" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="GSSoC Badge 5" />
-  </a>
-</p>
-</details>
 
 <details open>
 <summary><b>🎖️ Holopin Badges (2024–present)</b></summary>
