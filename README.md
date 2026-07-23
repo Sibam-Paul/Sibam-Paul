@@ -26,22 +26,18 @@
   </a>
 </p>
 
-## 📊 GitHub Analytics
+---
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=Sibam-Paul&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Sibam-Paul&include_all_commits=true&theme=transparent"/>
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&display_format=percent&theme=transparent"/>
-<hr>
+<h1 align="center">Git Stats</h1>
+<p align="center">
+
+<a href="#">![Github stats](https://github-readme-stats-sigma-five.vercel.app/api??username=Sibam-Paul&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sibam-Paul&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a><br /><br />
+<a href="#">![Trophies](http://trophy.ryglcloud.net/?username=Sibam-Paul&theme=darkhub&count_private=true&hide_border=true&column=10) </a>
+
 </p>
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sibam-Paul&langs_count=4&theme=transparent"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibam-Paul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160px" alt="Sibam's GitHub streak" />
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibam-Paul&custom_title=Sibam's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Sibam's activity graph" />
-</p>
+---
 
 ## 🏆 Achievements & Badges
 
